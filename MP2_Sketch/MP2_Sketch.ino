@@ -58,6 +58,7 @@ Adafruit_LIS3DH lis = Adafruit_LIS3DH(LIS3DH_CS, LIS3DH_MOSI, LIS3DH_MISO, LIS3D
 
 /*
  * Keys for the buzzer
+ * From the Makeability Lab Piano lesson: https://makeabilitylab.github.io/physcomp/arduino/piano.html
  */
 #define KEY_C 262  // 261.6256 Hz
 #define KEY_E 330  // 329.6276 Hz
